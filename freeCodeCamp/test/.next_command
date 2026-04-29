@@ -142,3 +142,7 @@ cd ..
 ls --color=auto
 find -name images
 mv header.png client/assets/images
+find
+__vsc_prompt_cmd_original
+find header.png
+find -name header.png
