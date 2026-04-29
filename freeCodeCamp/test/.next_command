@@ -162,3 +162,4 @@ find
 mv client/assets/icons/CodeRoad.svg
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
+find
