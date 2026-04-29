@@ -146,3 +146,5 @@ find
 __vsc_prompt_cmd_original
 find header.png
 find -name header.png
+mv footer.jpeg client/assets/images
+find -name footer.jpeg
