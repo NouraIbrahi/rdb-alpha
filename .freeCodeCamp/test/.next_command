@@ -86,3 +86,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=second_database
 sudo service postgresql start
 psql --username=freecodecamp --dbname=second_database
+pg_dump -cC --inserts -U freecodecamp sec
+pg_dump -cC --inserts -U freecodecamp second_database > second_database.sql
